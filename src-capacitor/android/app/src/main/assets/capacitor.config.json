@@ -1,0 +1,7 @@
+{
+  "appId": "org.cordova.quasar.app",
+  "appName": "CKCM TABULATOR MOBILE",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "www"
+}
